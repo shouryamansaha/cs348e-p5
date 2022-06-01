@@ -1,0 +1,12 @@
+2022-05-31 23:18:14,859 [MainThread  ] [INFO ]  Updates 0, num timesteps 19200, FPS 67 
+ Last 80 training episodes: mean/median reward 240.0/240.0, min/max reward 240.0/240.0, dist en 32.62715793848038, l_pi 0.7611678753979504, l_vf -0.027438423821604375
+
+2022-05-31 23:28:49,210 [MainThread  ] [INFO ]  Updates 0, num timesteps 19200, FPS 85 
+ Last 80 training episodes: mean/median reward 240.0/240.0, min/max reward 240.0/240.0, dist en 32.64821161031723, l_pi 0.4078516209032387, l_vf -0.01852637094743841
+
+2022-05-31 23:47:07,945 [MainThread  ] [INFO ]  Updates 0, num timesteps 19200, FPS 61 
+ Last 80 training episodes: mean/median reward -1093.0/-1086.5, min/max reward -1190.1/-1009.8, dist en 32.61741172075271, l_pi 0.7475077354349196, l_vf -0.026862085463744734
+
+2022-06-01 00:10:34,546 [MainThread  ] [INFO ]  Updates 0, num timesteps 19200, FPS 55 
+ Last 80 training episodes: mean/median reward -1093.0/-1086.5, min/max reward -1190.1/-1009.8, dist en 32.61741172075271, l_pi 0.7475077354349196, l_vf -0.026862085463744734
+
